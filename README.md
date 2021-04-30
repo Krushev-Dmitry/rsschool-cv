@@ -1,1 +1,1 @@
-# rsschool-cv
+https://krushev-dmitry.github.io/rsschool-cv
