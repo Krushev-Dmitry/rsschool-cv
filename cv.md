@@ -77,7 +77,7 @@ https://github.com/Krushev-Dmitry/pizza_test)
 
 **Position: structural engineer**
 
-**Period: 08.2013 - 08.2015**
+**Period: 07.2013 - 08.2015**
 
 **Individual enterpreneur**
 
