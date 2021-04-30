@@ -45,3 +45,48 @@ I am responsible, hardworking, motivated to gain new knowledge and want to be pa
 + **OPERATING SYSTEMS:**
 
   * MacOS
+
+## Education
+
+
+*2020-2021 *
++ **IOS - Developer** 
+
+* Patsyno Irina, Minsk
+
++ **iOS & Swift - The Complete iOS A**  
+ 
+  * Udemy
+
++ **Stanford - Developing iOS 11 Apps with Swift**  
+ 
+  * YouTube
+
+
+## Experience
+**Github: Pizza test project** [link to profile](
+https://github.com/Krushev-Dmitry/pizza_test)
+
+
+
+
+## PRESENT WORK:
+
+
+**BELTEI**
+
+**Position: structural engineer**
+
+**Period: 08.2013 - 08.2015**
+
+**Individual enterpreneur**
+
+**Position: electrical engineer**
+
+**Period: 06.2013 - 12.2020**
+
+**Company name: Power station CHP-3**
+
+**Position: Electrician repairman**
+
+**Period: 09.2019 - pres.**
